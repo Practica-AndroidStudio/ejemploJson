@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Usuario\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="D:\Gonzalo\Programacion\CursoUTNAndroid\ejemploJson\app\build\intermediates\pre-dexed\debug\support-v4-19.1.0_8a88e824b72f3e1980efa490e372baa53bea2631.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Gonzalo\Programacion\CursoUTNAndroid\ejemploJson\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="a4ac8b6ae706f9152b3c660ca2335b638cc2cd66">
+        <dex dex="D:\Gonzalo\Programacion\CursoUTNAndroid\ejemploJson\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_3782d24c89325b208f4e8c26d2a107d790ce3a69.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Gonzalo\Programacion\CursoUTNAndroid\ejemploJson\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="8ff65b0d0b8359162ef6fcc9d85f1aed663542f2">
+        <dex dex="D:\Gonzalo\Programacion\CursoUTNAndroid\ejemploJson\app\build\intermediates\pre-dexed\debug\instant-run_57ea7b6db63c5a90307910e2f8a4db81a4ce0fe8.jar" />
+    </item>
+
+</items>
