@@ -1,0 +1,86 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\Gonzalo\\Programacion\\CursoUTNAndroid\\ejemploJson\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "map": [
+                {
+                    "source": "D:\\Gonzalo\\Programacion\\CursoUTNAndroid\\ejemploJson\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "3,4",
+                        "startColumns": "4,4",
+                        "startOffsets": "56,105",
+                        "endColumns": "48,52",
+                        "endOffsets": "100,153"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,104",
+                        "endColumns": "48,52",
+                        "endOffsets": "99,152"
+                    }
+                },
+                {
+                    "source": "D:\\Gonzalo\\Programacion\\CursoUTNAndroid\\ejemploJson\\app\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "6,15",
+                        "startColumns": "4,4",
+                        "startOffsets": "186,510",
+                        "endLines": "12,17",
+                        "endColumns": "12,12",
+                        "endOffsets": "472,665"
+                    },
+                    "to": {
+                        "startLines": "4,11",
+                        "startColumns": "4,4",
+                        "startOffsets": "157,448",
+                        "endLines": "10,13",
+                        "endColumns": "12,12",
+                        "endOffsets": "443,603"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\Gonzalo\\Programacion\\Android\\ejemploJson\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "map": [
+                {
+                    "source": "D:\\Gonzalo\\Programacion\\Android\\ejemploJson\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "3,4",
+                        "startColumns": "4,4",
+                        "startOffsets": "56,105",
+                        "endColumns": "48,52",
+                        "endOffsets": "100,153"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,104",
+                        "endColumns": "48,52",
+                        "endOffsets": "99,152"
+                    }
+                },
+                {
+                    "source": "D:\\Gonzalo\\Programacion\\Android\\ejemploJson\\app\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "6,15",
+                        "startColumns": "4,4",
+                        "startOffsets": "186,510",
+                        "endLines": "12,17",
+                        "endColumns": "12,12",
+                        "endOffsets": "472,665"
+                    },
+                    "to": {
+                        "startLines": "4,11",
+                        "startColumns": "4,4",
+                        "startOffsets": "157,448",
+                        "endLines": "10,13",
+                        "endColumns": "12,12",
+                        "endOffsets": "443,603"
+                    }
+                }
+            ]
+        }
+    ]
+}

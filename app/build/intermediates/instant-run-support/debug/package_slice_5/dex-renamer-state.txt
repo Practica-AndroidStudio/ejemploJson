@@ -1,0 +1,4 @@
+#Wed Mar 21 20:23:27 ART 2018
+base.0=D\:\\Gonzalo\\Programacion\\Android\\ejemploJson\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\119
+path.0=classes.dex
+renamed.0=classes.dex

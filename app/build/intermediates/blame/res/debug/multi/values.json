@@ -1,0 +1,87 @@
+[
+    {
+        "outputFile": "D:\\Gonzalo\\Programacion\\CursoUTNAndroid\\ejemploJson\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 48,
+                    "endOffset": 99
+                },
+                "from": {
+                    "file": "D:\\Gonzalo\\Programacion\\CursoUTNAndroid\\ejemploJson\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 48,
+                        "endOffset": 100
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 104,
+                    "endColumn": 52,
+                    "endOffset": 152
+                },
+                "from": {
+                    "file": "D:\\Gonzalo\\Programacion\\CursoUTNAndroid\\ejemploJson\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 105,
+                        "endColumn": 52,
+                        "endOffset": 153
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 157,
+                    "endLine": 10,
+                    "endColumn": 12,
+                    "endOffset": 443
+                },
+                "from": {
+                    "file": "D:\\Gonzalo\\Programacion\\CursoUTNAndroid\\ejemploJson\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 186,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 472
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 448,
+                    "endLine": 13,
+                    "endColumn": 12,
+                    "endOffset": 603
+                },
+                "from": {
+                    "file": "D:\\Gonzalo\\Programacion\\CursoUTNAndroid\\ejemploJson\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 510,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 665
+                    }
+                }
+            }
+        ]
+    }
+]
