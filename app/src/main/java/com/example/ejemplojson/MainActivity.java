@@ -64,16 +64,20 @@ public class MainActivity extends Activity {
 		    //Se conecta con openweathermap para descargar la informacion requerida
 
 		    try {
-		        //Carga la
+		        //Carga la informacion desde internet al inputStream
                 inputStream = new URL(urls[0]).openStream();
 
-		        if(inputStream != null) {
-			        	BufferedReader buffer = new BufferedReader( new InputStreamReader(inputStream));
+		        //Si el inputStream se conecto exitosamente obtiene informacion
+                //BufferedReader obtiene esa info en bruto del inputStream y luego lo transforma a String
+                if(inputStream != null) {
+					BufferedReader buffer = new BufferedReader( new InputStreamReader(inputStream));
 			        String line;
 			        while ((line = buffer.readLine()) != null) {
+			            //usa StringBuilder para armar el paquete de datos que luego sera
+                        //transformado a JSON en el metodo onPostExecute
 						result.append(line);
 					}
-			 
+					//Cierra el flujo de conexion de internet
 			        inputStream.close();
 		        } //else {
 		            // ERROR;
@@ -97,7 +101,8 @@ public class MainActivity extends Activity {
 		       	JSONObject json = new JSONObject(texto);
 		       	
 		       	JSONObject jsonMain = json.getJSONObject("main");
-		       	
+
+		       	//extrae el valor de la etiqueta del paquete JSON obtenida en la pagina web
 		       	double temperaturaK = jsonMain.getDouble("temp");
 		       	
 		       	float temperaturaKFloat = ((int)temperaturaK*100)/100;
